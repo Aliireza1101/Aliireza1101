@@ -6,7 +6,7 @@
 </br>
 <h1 align="center">📊  GitHub State :</h1>
 </br>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=aliireza1101&show_icons=true&theme=dark&locale=en" alt="aliireza1101" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliireza1101&show_icons=true&theme=dark&locale=en" alt="aliireza1101" />
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aliireza1101&theme=dark" alt="aliireza1101" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliireza1101&theme=dark" alt="aliireza1101" />
 
